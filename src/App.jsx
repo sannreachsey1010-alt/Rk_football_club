@@ -10,6 +10,23 @@ import Contact from './page/Contact'
 import View from './page/View'
 
 
+// import { BrowserRouter, Routes, Route } from 'react-router-dom'
+
+// function App() {
+//   return (
+//     <BrowserRouter basename="/work">
+//       <Routes>
+//         <Route path="/" element={<Home />} />
+//         <Route path="/Pre_Order" element={<Pre_Order />} />
+//         <Route path="/View" element={<View />} />
+//         <Route path="/Contact" element={<Contact />} />
+//       </Routes>
+//     </BrowserRouter>
+//   )
+// }
+
+// export default App
+
 
 
 const App = () => {
